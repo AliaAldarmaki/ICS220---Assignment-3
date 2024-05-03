@@ -8,7 +8,7 @@ from event import Event, Event_Manager
 from guest import Guest, GuestManager
 from supplier import Supplier, SupplierManager
 from venue import Venue, VenueManager
-
+ 
 class EventManager:
     def __init__(self):
         self.root = tk.Tk()
