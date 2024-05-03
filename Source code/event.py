@@ -10,7 +10,7 @@ class Event:
         self.event_id = event_id
         self.event_type = event_type
         self.theme = theme
-        self.date = date
+        self.date = date 
         self.time = time
         self.duration = duration
         self.venue_address = venue_address
